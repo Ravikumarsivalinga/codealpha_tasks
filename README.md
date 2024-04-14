@@ -1,5 +1,7 @@
 
 Dataset:
+[spotify.csv](https://github.com/Ravikumarsivalinga/codealpha_tasks/files/14971856/spotify.csv)
+
 
 
 
@@ -26,5 +28,3 @@ Building and training the model: You initialize and train a RandomForestClassifi
 Making predictions: You make predictions on the test set using the trained model.
 
 Evaluating the model: You compute the accuracy score of the model using accuracy_score.
-[spotify.csv](https://github.com/Ravikumarsivalinga/codealpha_tasks/files/14971856/spotify.csv)
-
